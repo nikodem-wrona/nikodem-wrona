@@ -5,7 +5,7 @@
 ## Stack: 
 - TypeScript
 - JavaScript
-- Golang
+- Rust
 - AWS/GCP
 
 ## Links:
