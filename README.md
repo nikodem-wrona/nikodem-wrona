@@ -5,7 +5,6 @@
 ## Stack: 
 - TypeScript
 - JavaScript
-- Go
 - Kubernetes
 - AWS
 
