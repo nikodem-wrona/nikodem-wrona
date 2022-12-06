@@ -1,6 +1,6 @@
 ### Subakh ul kuhar 🌔
 
-# I'm Nikodem, Fullstack Software Engineer 👋🤓
+### I'm Nikodem, Fullstack Software Engineer 👋🤓
 
 ## Stack: 
 - TypeScript
