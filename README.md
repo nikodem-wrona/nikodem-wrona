@@ -1,6 +1,7 @@
 ### Subakh ul kuhar 🌔
 
 ### I'm Nikodem, Fullstack Software Engineer 👋🤓
+Co-creator of [MCU Timeline](https://github.com/mcu-timeline)
 
 ## Stack: 
 - TypeScript
