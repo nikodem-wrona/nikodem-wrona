@@ -5,7 +5,7 @@ Co-creator of [McWatch](https://github.com/mcu-timeline)
 
 ## Stack: 
 - TypeScript
-- Python
+- Go
 - Kubernetes
 - AWS
 
