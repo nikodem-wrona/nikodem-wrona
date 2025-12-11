@@ -2,10 +2,7 @@
 
 ### I'm Nikodem, Fullstack Software Engineer 👋🤓
 
-## Stack: 
-- TypeScript
-- Kubernetes
-- AWS
+## Stack: Basically anything web related.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nikodem-wrona)](https://git.io/streak-stats)
 
