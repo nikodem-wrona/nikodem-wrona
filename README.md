@@ -2,7 +2,8 @@
 
 ### I'm Nikodem, Fullstack Software Engineer 👋🤓
 
-## Stack: Basically anything web related.
+## Stack: 
+- anything web related.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nikodem-wrona)](https://git.io/streak-stats)
 
