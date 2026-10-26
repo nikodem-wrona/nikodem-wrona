@@ -1,7 +1,5 @@
 ### Subakh ul kuhar 🌔
 
-### Fullstack Software Engineer 👋🤓
-
 ## Stack: 
 - anything.
 
